@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="22" height="24" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" name="tilesheet" tilewidth="48" tileheight="48">
+  <image source="../img/tilesheet.png" width="960" height="1820"/>
+ </tileset>
+ <layer name="floor 1" width="22" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgWEVlzEADM0fxKB7Fo3gUj+LBgBloaC4+QCtzybETBABL8EzC
+  </data>
+ </layer>
+ <layer name="floor 2" width="22" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtAaHGBGYVubKM9HGXGqCUXNHzR01d9RcYswdyeXZUAIAbvwpZQ==
+  </data>
+ </layer>
+ <layer name="map-transition" width="22" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF1AKtUDwKRsEoGAWjYBQMdwAAQB0BCw==
+  </data>
+ </layer>
+ <layer name="Murs" width="22" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzbycjAsIvKeDcQnwXiSXjwFCLEFYFYCYgnQ/F5Es2djIRB4sug2BSIzYB4ORTDzIXJL0fTi65/ORJeAcS4AMxcZLCcBP2kmEsNgM1cYybamEsNMGruqLmj5o6aS4q51CrPHgLxIxz4G5l+OU9AH7l2EjKXXDsfAzEAzqhpsw==
+  </data>
+ </layer>
+ <layer name="Objets" width="22" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtAAWjJSbIcvEwCDHRLl+dNoViN1INDcSi350GhlEAfnReOyAhU8jke6B2Z0HxPlkhAmusDAEYiMizY3Eox8XTYy5uVDzjEigR80dHOYSin9y0gNynoDR1DAXG8CVl0k1FzlvEGMfseYihzGuPIwMmoD8ZiLMbcTiV3Sa0vKXUNhSGyCXo9Sof4gBAOTdMao=
+  </data>
+ </layer>
+ <layer name="Objets 2" width="22" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSggDQAACEAAAQ==
+  </data>
+ </layer>
+ <layer name="Murs 2" width="22" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBia4AOUZmHELv8WiN8B8XsK7MBmBiPQPiYgZsZhLyHAzUS5GaNgFIyCUTAYAKg8GwUjFwAAqxEGtg==
+  </data>
+ </layer>
+</map>
