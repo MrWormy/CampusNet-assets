@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="55" height="35" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" name="tilesheet" tilewidth="48" tileheight="48">
+  <image source="../img/tilesheet.png" width="960" height="1820"/>
+ </tileset>
+ <layer name="floor 1" width="55" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKHrH+VTrsdQcNVUVVVVVVVVffkAPzX+jw==
+  </data>
+ </layer>
+ <layer name="floor 2" width="55" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAArwYeFAAB
+  </data>
+ </layer>
+ <layer name="map-transition" width="55" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt1UEKgDAMRNF6eM/l1URwJUUULDGv+dB18zMDae0d6/l0ZEfJTXK5IrsVOZE7Kbs94e62z3L3e8jeI90iOjPyz+pBfr7uh7w32U1Bzkh26yH7ym4Kckay26zImR5u2xI9RT70Tsh+RQ7kHka5/WmnO51xFg4=
+  </data>
+ </layer>
+ <layer name="Murs" width="55" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztmFFuwjAMhilvcIvtDtv9YLvC1l1hhQsAZ0BcYUPiBqPPc6Rai6w6idPUabRa+h+aCMwnbKd/btVicQvQHXQFYVy75zbw81PWxeKy4zyB3zazzWwzWzni2DawvhXqpfqbs1Q55i7H9gbr75YeQI9kje7VzL5Rjjrg2D5hvbH0BHoma3Rvx+w3idnwTPbplWFLHSnZLoH19FEoW0g97TOzmfpyzSb63FZ8H+UKjg3ri+tTW3XXt2PHAXIcBVov/fVFRWfTToktVf9I6+usUJM52VZLWc306eTIm5Nt7LxDc+D5Kz1fS2DD+Sg9X0thizlfS2GLiSmzxfZZCWyxfabJht5V6jlj+0yTDb2rNFdIn7ne5zTY0LuOwWZqgruH0HxnGIPNVRPa70O+70GPZvxXyHzEmui7j9Jkw/rx3VuY/8H4L8l8pPdR6N+02Gh+KuRB/yWZj/Q+Cv2bFhvN3+cvJTxfoG+HcvmPFPHj2Z/Z/jeb7d0xhnr5oTJ3Sr+FBU1y
+  </data>
+ </layer>
+ <layer name="Objets" width="55" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt2LENwjAURVH/0fAO0MACIRJkAaQsE8JgkB3o8gpH9gIo+Pse6VVufDvLIQD4dwcLIdret/iNo7pOTts6dV2dtpXOarw47byra3DaBsCnmN4Mb+1TbLF8Vqvt/g/tW2x00Nbr7jdt0p7anPayfAYAAACgLfwJ16mVP2HUaQVfeRUo
+  </data>
+ </layer>
+ <layer name="Objets 2" width="55" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt2LENgEAMQ9EEJoMdYAdud2AFXNIBJw6F6D/JVZpYShUzAADetyqbslfOI3M365Te6+Z47s/3coV7AQAAAADgvgg/glY7RPgRfLXDmPQPMnjebpN6zUm7LepVknY7OwAkLBBq
+  </data>
+ </layer>
+</map>
