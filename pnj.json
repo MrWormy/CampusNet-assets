@@ -1,0 +1,14 @@
+[
+	{
+		"id": 0,
+		"nom": "Arthur Blin",
+		"pos": {"i": 35, "j": 20},
+		"text": "Salut ! Moic'est Arthur Blin !"
+	},
+	{
+		"id": 1,
+		"nom": "Thomas Laurence",
+		"pos": {"i": 36, "j": 20},
+		"text": "Yop ! Moic'est Thomas, et c'est moi qui ai codé l'appli !"
+	}
+]
