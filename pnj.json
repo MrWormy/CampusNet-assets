@@ -1,14 +1,140 @@
 [
 	{
 		"id": 0,
-		"pName": "Arthur Blin",
-		"pos": {"i": 35, "j": 20},
-		"text": "Salut ! Moi c'est Arthur Blin !"
+		"pName": "Prez' Club Jeux",
+		"pos": {"i": 5, "j": 5},
+		"text": "Tu connais le Club Jeux ? On a des consoles, toutes sortes de jeux, et même des billards !"
 	},
 	{
 		"id": 1,
-		"pName": "Thomas Laurence",
-		"pos": {"i": 36, "j": 20},
-		"text": "Yop ! Moic'est Thomas, et c'est moi qui ai codé l'appli !"
+		"pName": "Prez' INT'ECH",
+		"pos": {"i": 6, "j": 5},
+		"text": "Nous, c'est le club de robotique. On participe à la coupe de robotique tous les ans, tu veux venir ?"
+	},
+	{
+		"id": 2,
+		"pName": "Prez' Forum",
+		"pos": {"i": 7, "j": 5},
+		"text": "Salut ! Tu cherches un stage ? On s'occupe de contacter des entreprises pour le Forum des Télécommunications. C'est sympa, professionnalisant et... On se fait plaisir !"
+	},
+	{
+		"id": 3,
+		"pName": "Prez' MiNET",
+		"pos": {"i": 8, "j": 5},
+		"text": "Hey ! Tu viens faire configurer ton ordi ? Ou tu veux apprendre à coder ?"
+	},
+	{
+		"id": 4,
+		"pName": "Prez' BDE",
+		"pos": {"i": 9, "j": 5},
+		"text": "Tu veux être au coeur de la vie associative du campus ? Ça tombe bien, on cherche des gens motivés !"
+	},
+	{
+		"id": 5,
+		"pName": "Prez' Asint",
+		"pos": {"i": 10, "j": 5},
+		"text": "L'Asint, ce n'est pas que l'organisation des sports, c'est avant tout un esprit : classe et raffinement."
+	},
+	{
+		"id": 6,
+		"pName": "Prez' AbsINThe",
+		"pos": {"i": 35, "j": 20},
+		"text": "Tu aimes bien la convivialité et la bière à bon prix ? Passe ce soir !"
+	},
+	{
+		"id": 7,
+		"pName": "Prez' Club B",
+		"pos": {"i": 35, "j": 20},
+		"text": "Tu veux parler avec tes amis autour d'une bonne bière ? Passe mercredi soir !"
+	},
+	{
+		"id": 8,
+		"pName": "Prez' BPM",
+		"pos": {"i": 35, "j": 20},
+		"text": "Hey ! Tu as toujours rêvé d'être un DJ ? Allez viens, on a besoin de monde pour mixer pendant nos soirées !"
+	},
+	{
+		"id": 9,
+		"pName": "Prez' EvryOne",
+		"pos": {"i": 35, "j": 20},
+		"text": "Tu veux faire de la radio ? Viens ! En plus, on atteind notre pic d'auditeurs ence moment !"
+	},
+	{
+		"id": 10,
+		"pName": "Prez' INT'imes",
+		"pos": {"i": 35, "j": 20},
+		"text": "Nous on fait le journal de l'école. Tout le monde nous craint !"
+	},
+	{
+		"id": 11,
+		"pName": "Prez' IN&acT",
+		"pos": {"i": 35, "j": 20},
+		"text": "Salut mon mignon. Tu veux défendre les droits des LGBTs ? Allez, viens !"
+	},
+	{
+		"id": 12,
+		"pName": "Prez' AIESEC",
+		"pos": {"i": 35, "j": 20},
+		"text": "Tu veux appartenir au plus grand réseau étudiant de France ? C'est nous !"
+	},
+	{
+		"id": 13,
+		"pName": "Prez' Sprint",
+		"pos": {"i": 35, "j": 20},
+		"text": "Sprint, c'est du sérieux ! Enfin, pas trop non plus..."
+	},
+	{
+		"id": 14,
+		"pName": "Prez' Promo2tel",
+		"pos": {"i": 35, "j": 20},
+		"text": "Salut ! Tu viens nous aider à faire la promotion des écoles ?"
+	},
+	{
+		"id": 15,
+		"pName": "Prez' Pomp'Int",
+		"pos": {"i": 35, "j": 20},
+		"text": "Hey ! Tu as toujours voulu être pompom ? L'ambiance est folle, et c'est même ouvert aux garçons !"
+	},
+	{
+		"id": 16,
+		"pName": "Prez' Emoty:S",
+		"pos": {"i": 35, "j": 20},
+		"text": "Tu veux faire partie de la comédie musicale ? Je te préviens, c'est un sacrément gros projet !"
+	},
+	{
+		"id": 17,
+		"pName": "Prez' INTv",
+		"pos": {"i": 35, "j": 20},
+		"text": "Hey ! J'ai un lien Youtube pour toi si tu veux !"
+	},
+	{
+		"id": 18,
+		"pName": "Prez' Declic",
+		"pos": {"i": 35, "j": 20},
+		"text": "Nous, on immortalise nos soirées."
+	},
+	{
+		"id": 19,
+		"pName": "Prez' BDA",
+		"pos": {"i": 35, "j": 20},
+		"text": "Tu te sens l'âme d'un artiste ? Bienvenue !"
+	},
+	{
+		"id": 20,
+		"pName": "Prez' Club Zic",
+		"pos": {"i": 35, "j": 20},
+		"text": "Tu aimes la musique ? Ça tombe bien, on allait répéter !"
+	},
+	{
+		"id": 21,
+		"pName": "Prez' INTervenir",
+		"pos": {"i": 35, "j": 20},
+		"text": "Allez, viens avec nous au Nicaragua ! Ils ont besoin de nous !"
+	},
+	{
+		"id": 22,
+		"pName": "Prez' Dolph'INT",
+		"pos": {"i": 35, "j": 20},
+		"text": "Tu aimes la voile ? A Evry c'est pas facile, mais ne t'en fais pas, on arrive toujours à s'en sortir !"
 	}
 ]
