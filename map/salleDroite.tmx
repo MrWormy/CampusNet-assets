@@ -5,7 +5,7 @@
  </tileset>
  <layer name="floor 1" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYKAeWIUDj+od1TvS9JICAOShM80=
+   eJxjYGBgWEUGZiBT3ygexcMRM1CgDwAxOZLD
   </data>
  </layer>
  <layer name="floor 2" width="15" height="15">
@@ -15,22 +15,22 @@
  </layer>
  <layer name="map-transition" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYMAOvgPxYxxyo2AUjALiADH5CACVZgO1
+   eJxjYBgFgx20UqCPEr2jgD4AAHCpAhU=
   </data>
  </layer>
  <layer name="Murs" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYEAFOxkZGHYxIvgg9m5GBqLAWSzqzhOhF2QnFxOmOCcTYbsfAuW/YVHzFSj2mAi7R9086mZcgFw3w+x+hKT2ER47AQtFI48=
+   eJzbycjAsIsMvBuIzwLxNBLxdCA+D9W7ikS8GkkvOWCo6iUXUKp3KIbVQOl9CMSPyMCPgRgAKAk8CQ==
   </data>
  </layer>
  <layer name="Objets" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUDCQAAAOEAAE=
+   eJxjYKAesGVkYLBjJE9vIFBfEIl6LYhUnwhUl0Si2UVA9cVAXArEZWT6CRtIBpqVwogwH8bHJY8MyoH8Ckbi+dj8g8t8XO7BZz8x8ujmkuJfGPAHigcwkuZfdPvQzcflHmRzcZlPSJ5UAADtyx+V
   </data>
  </layer>
  <layer name="Objets 2" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUDCQAAAOEAAE=
+   eJxjYKA+SGVkYEhDw+mMxOmtBKqrQsPVROodBaNgKAIABJAFTQ==
   </data>
  </layer>
 </map>

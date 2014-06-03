@@ -15,7 +15,7 @@
  </layer>
  <layer name="map-transition" width="100" height="60">
   <data encoding="base64" compression="zlib">
-   eJzt10kOgCAQBEB8PO/yax7dEiETDChVVz2QaRszKQEAAAAAAAAAwJxy8BnvaDVz2bV3nWlpxrniHaCePsGdXoxFHmfr0vsEO9nwJZHv9bh72ENizGw+MocyPYFnOjIWeQD8n7se2tClscgDgAj/DwAAAHrYAMydDkM=
+   eJzt2EsKgDAMBcB6eM/l1dy48ANtlWA/zED3JeGVpCkBANRZjwMAACMz0wLA3PxhAQBv5WYHc8X/omqud/HuNS3V2GwOseQJnuSiL/pxtS2tbwBj+vKWnHcPewjUkRMokxPIk5G+6AfA/Lz1AAAAAAAA7eysaw5D
   </data>
  </layer>
  <layer name="Murs" width="100" height="60">
