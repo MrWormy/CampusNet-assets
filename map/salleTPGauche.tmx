@@ -10,7 +10,7 @@
  </layer>
  <layer name="floor 2" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUDCQAAAOEAAE=
+   eJxjYBgFQwH4MzIwBACxOhBrMGKK4+JT235i3UUr+9Dlqe1fXObSyj4QAAB3eAgv
   </data>
  </layer>
  <layer name="map-transition" width="15" height="15">
@@ -25,12 +25,12 @@
  </layer>
  <layer name="Objets" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYKA9sGVkYLBjJE9vIFBfEB69lkA5KwJmW6DJFwH5xUDsC8R+ZLqLEgCzn1hxYoA6UJ8GDr2E7LMGYhtG7OrwmQsC/kC5ABzyuMwlxp+4zIW5R52McIK5B59/CbkHn3/JBQA/MhAQ
+   eJxjYKA9sGVkYLBjJE9vIFBfEB69lkA5KwJmW6DJFwH5xUDsC8R+ZLqLEgCzn1hxYoA6UJ8GDr2E7LMGYhtG7OrwmUsI4DKXVv4k1j34/DsQAABVbQ1k
   </data>
  </layer>
  <layer name="Objets 2" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYKAeSGVkYEhDw+mMxOmtBKqrQsPVROqlJ1AHukkDi7vQxbGpswbybbDoRRfHps4fyA9gxDQXJo6LT4z9xABc5sLcgytc8AGYe7C5i5C5MPdgcxc+cwkBfObSCgAAG8EQpQ==
+   eJxjYKAeSGVkYEhDw+mMxOmtBKqrQsPVROqlJ1AHukkDi7vQxbGpswbybbDoRRfHpY5SQCtzyQUw92BzFyz8cIU3ueYORgAAC8YKqg==
   </data>
  </layer>
 </map>

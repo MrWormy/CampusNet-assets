@@ -5,7 +5,7 @@
  </tileset>
  <layer name="floor 1" width="22" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYBgF9ASrcGBqmkUupoWZtDaXVuEAAo8YIZgYtaNgeAMA4QlA3Q==
+   eJxjYBgF9ASrcGBqmkUupoWZtDaXVuFAbDiPgpEBAEMiPxc=
   </data>
  </layer>
  <layer name="floor 2" width="22" height="15">
@@ -20,10 +20,10 @@
  </layer>
  <layer name="Murs" width="22" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYBhaYCcjA8MuKuPdQHwWiOWBWAGIFYFYCYlPKg3Tfx5qrjEQmwCxKRCbIfFJpWH6YeZSG5yngZkwc2nlXlqZ+xCLuY8YKcOPaRS+o4D2AADP3i+j
+   eJxjYBhaYCcjA8MuKuPdQHwWiOWBWAGIFYFYCYlPKg3Tfx5qrjEQmwCxKRCbIfFJpWH6YeZSG5yngZkwc2nlXlqZ+xCIH0ExDDxipAw/plH4jgLaAwBt1DFp
   </data>
  </layer>
- <layer name="Objets" width="22" height="15" visible="0">
+ <layer name="Objets" width="22" height="15">
   <data encoding="base64" compression="zlib">
    eJxjYBgFo2AUjIJRgA8AAAUoAAE=
   </data>
