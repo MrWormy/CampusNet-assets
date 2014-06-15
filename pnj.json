@@ -16,7 +16,7 @@
 	{
 		"id": 2,
 		"pName": "Prez' Forum",
-		"pos": {"i": 3, "j": 13},
+		"pos": {"i": 3, "j": 12},
 		"map": 33,
 		"text": "Salut ! Tu cherches un stage ? On s'occupe de contacter des entreprises pour le Forum des Télécommunications. C'est sympa, professionnalisant et... On se fait plaisir !"
 	},
@@ -30,14 +30,14 @@
 	{
 		"id": 4,
 		"pName": "Prez' BDE",
-		"pos": {"i": 20, "j": 15},
+		"pos": {"i": 27, "j": 15},
 		"map": 1,
 		"text": "Tu veux être au coeur de la vie associative du campus ? Ça tombe bien, on cherche des gens motivés !"
 	},
 	{
 		"id": 5,
 		"pName": "Prez' Asint",
-		"pos": {"i": 1, "j": 35},
+		"pos": {"i": 1, "j": 14},
 		"map": 33,
 		"text": "L'Asint, ce n'est pas que l'organisation des sports, c'est avant tout un esprit : classe et raffinement."
 	},
@@ -142,7 +142,7 @@
 	{
 		"id": 20,
 		"pName": "Prez' Club Zic",
-		"pos": {"i": 20, "j": 19},
+		"pos": {"i": 19, "j": 18},
 		"map": 33,
 		"text": "Tu aimes la musique ? Ça tombe bien, on allait répéter !"
 	},
