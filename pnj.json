@@ -2,21 +2,21 @@
 	{
 		"id": 0,
 		"pName": "Prez' Club Jeux",
-		"pos": {"i": 4, "j": 15},
+		"pos": {"i": 15, "j": 4},
 		"map": 33,
 		"text": "Tu connais le Club Jeux ? On a des consoles, toutes sortes de jeux, et même des billards !"
 	},
 	{
 		"id": 1,
 		"pName": "Prez' INT'ECH",
-		"pos": {"i": 4, "j": 12},
+		"pos": {"i": 12, "j": 4},
 		"map": 33,
 		"text": "Nous, c'est le club de robotique. On participe à la coupe de robotique tous les ans, tu veux venir ?"
 	},
 	{
 		"id": 2,
 		"pName": "Prez' Forum",
-		"pos": {"i": 13, "j": 3},
+		"pos": {"i": 3, "j": 13},
 		"map": 33,
 		"text": "Salut ! Tu cherches un stage ? On s'occupe de contacter des entreprises pour le Forum des Télécommunications. C'est sympa, professionnalisant et... On se fait plaisir !"
 	},
@@ -30,7 +30,7 @@
 	{
 		"id": 4,
 		"pName": "Prez' BDE",
-		"pos": {"i": 20, "j": 40},
+		"pos": {"i": 20, "j": 15},
 		"map": 1,
 		"text": "Tu veux être au coeur de la vie associative du campus ? Ça tombe bien, on cherche des gens motivés !"
 	},
@@ -58,7 +58,7 @@
 	{
 		"id": 8,
 		"pName": "Prez' BPM",
-		"pos": {"i": 29, "j": 27},
+		"pos": {"i": 29, "j": 47},
 		"map": 33,
 		"text": "Hey ! Tu as toujours rêvé d'être un DJ ? Allez viens, on a besoin de monde pour mixer pendant nos soirées !"
 	},
@@ -121,21 +121,21 @@
 	{
 		"id": 17,
 		"pName": "Prez' INTv",
-		"pos": {"i": 23, "j": 19},
+		"pos": {"i": 24, "j": 18},
 		"map": 33,
 		"text": "Hey ! J'ai un lien Youtube pour toi si tu veux !"
 	},
 	{
 		"id": 18,
 		"pName": "Prez' Declic",
-		"pos": {"i": 22, "j": 19},
+		"pos": {"i": 23, "j": 18},
 		"map": 33,
 		"text": "Nous, on immortalise nos soirées."
 	},
 	{
 		"id": 19,
 		"pName": "Prez' BDA",
-		"pos": {"i": 4, "j": 40},
+		"pos": {"i": 7, "j": 36},
 		"map": 1,
 		"text": "Tu te sens l'âme d'un artiste ? Bienvenue !"
 	},
