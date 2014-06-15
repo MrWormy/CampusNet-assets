@@ -30,7 +30,7 @@
 	{
 		"id": 4,
 		"pName": "Prez' BDE",
-		"pos": {"i": 20, "j": 22},
+		"pos": {"i": 20, "j": 28},
 		"map": 1,
 		"text": "Tu veux être au coeur de la vie associative du campus ? Ça tombe bien, on cherche des gens motivés !"
 	},
@@ -159,5 +159,12 @@
 		"pos": {"i": 26, "j": 18},
 		"map": 33,
 		"text": "Tu aimes la voile ? A Evry c'est pas facile, mais ne t'en fais pas, on arrive toujours à s'en sortir !"
+	},
+	{
+		"id": 23,
+		"pName": "Elisabeth",
+		"pos": {"i": 10, "j": 10},
+		"map": 0,
+		"text": "Bonjour ! A tu déjà rencontré les responsables des différentes associations, dans le forum ?"
 	}
 ]
