@@ -222,7 +222,11 @@
       [ 14, 0, 1, 19],
       [ 13, 0, 1, 19],
       [ 0, 12, 1, 20],
-      [ 0, 13, 1, 21]
+      [ 0, 13, 1, 21],
+      [ 27, 26, 34, 0]
+    ],
+    [
+      [ 18, 2, 33, 6]
     ]
   ],
   "maps": [ "forum.json", "exterieur.json", "amphi10.json", "amphi11.json", "cafet.json",
@@ -230,5 +234,5 @@
   "couloirHorizontal.json",
   "couloirVertical.json", "salleTPGauche.json", "salleGauche.json", "salleGauche.json", "salleTPGauche.json", "salleTPDroite.json", "salleDroite.json", "salleTPDroite.json", "salleDroite.json",
   "couloirVertical.json", "salleGauche.json", "salleGauche.json", "salleGauche.json", "salleGauche.json", "salleDroite.json", "salleDroite.json", "salleDroite.json", "salleDroite.json",
-  "foyer.json" ]
+  "foyer.json", "sousSolFoyer.json" ]
 }
