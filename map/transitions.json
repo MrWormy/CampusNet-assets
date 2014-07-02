@@ -59,7 +59,9 @@
       [ 17, 28, 33, 1],
       [ 12, 20, 33, 2],
       [ 5, 26, 33, 4],
-      [ 5, 27, 33, 4]
+      [ 5, 27, 33, 4],
+      [ 22, 55, 35, 0],
+      [ 23, 55, 35, 1]
     ],
     [
       [ 3, 17, 0, 24],
@@ -227,6 +229,10 @@
     ],
     [
       [ 18, 2, 33, 6]
+    ],
+    [
+      [ 9, 23, 1, 22],
+      [ 10, 23, 1, 23]
     ]
   ],
   "maps": [ "forum.json", "exterieur.json", "amphi10.json", "amphi11.json", "cafet.json",
@@ -234,5 +240,11 @@
   "couloirHorizontal.json",
   "couloirVertical.json", "salleTPGauche.json", "salleGauche.json", "salleGauche.json", "salleTPGauche.json", "salleTPDroite.json", "salleDroite.json", "salleTPDroite.json", "salleDroite.json",
   "couloirVertical.json", "salleGauche.json", "salleGauche.json", "salleGauche.json", "salleGauche.json", "salleDroite.json", "salleDroite.json", "salleDroite.json", "salleDroite.json",
-  "foyer.json", "sousSolFoyer.json" ]
+  "foyer.json", "sousSolFoyer.json", "mediatheque.json" ],
+  "mapsName": [ "forum", "exterieur", "amphi 10", "amphi 11", "cafet'",
+  "bâtiment B", "salle TP", "salle TP", "salle TP", "salle TP", "salle TP", "salle TP", "salle TP", "salle TP",
+  "couloir vers A et E",
+  "bâtiment A", "salle TP", "salle de cours", "salle de cours", "salle TP", "salle TP", "salle de cours", "salle TP", "salle de cours",
+  "bâtimentt E", "salle de cours", "salle de cours", "salle de cours", "salle de cours", "salle de cours", "salle de cours", "salle de cours", "salle de cours",
+  "foyer", "sous-sol du foyer", "médiathèque" ]
 }

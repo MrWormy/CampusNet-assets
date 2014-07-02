@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" width="100" height="40" tilewidth="48" tileheight="48">
  <tileset firstgid="1" name="tilesheet" tilewidth="48" tileheight="48">
-  <image source="../img/tilesheet.png" width="960" height="960"/>
+  <image source="../img/tilesheet.png" width="960" height="1820"/>
  </tileset>
  <layer name="floor 1" width="100" height="40">
   <data encoding="base64" compression="zlib">
@@ -15,7 +15,7 @@
  </layer>
  <layer name="map-transition" width="100" height="40">
   <data encoding="base64" compression="zlib">
-   eJzt2cEKgCAMAFB/3i/tI7p26RAhUs4y4z3wKnNj4jAlAABGy/tqtRT2WUMR3XOOv+U80RwAABDX+z3mfRcjfxzlZG46kodvUQ+ucI8B/NMMd/sMMcKMevwPAgAAQG2WNGe+Tz2grtQHemMc9YDnbbY8FRQ=
+   eJzt2rENgCAQBVCWdwiHcAhncQhbGwtjDFFAEX0vob0cXD4NhAAAQG3DulJNB3XmrI6u2fefsp/cMwAAIF9XuN5YuN7flJ4Hbes3C/l4G/PgDPcYwDe1cLe30CO0aJ8tWQMAACBF7F+BN6jnmQfEHWVENuoxD7jfAq7ZGOg=
   </data>
  </layer>
  <layer name="Murs" width="100" height="40">

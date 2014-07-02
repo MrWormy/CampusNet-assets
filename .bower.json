@@ -1,0 +1,13 @@
+{
+  "name": "resources",
+  "homepage": "https://github.com/MrWormy/CampusNet-assets",
+  "_release": "a4865abb81",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a4865abb81807f015d9b8ee36ea4c75516f17eb1"
+  },
+  "_source": "https://github.com/MrWormy/CampusNet-assets.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/MrWormy/CampusNet-assets.git"
+}

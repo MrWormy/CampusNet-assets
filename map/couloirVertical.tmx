@@ -15,7 +15,7 @@
  </layer>
  <layer name="map-transition" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYMAOWqGYXoDadtHD7aNuHnUzMXYRsg8AEpEGPQ==
+   eJxjYMAOWqGYXuAglc2jh9tH3TzqZkJgJhTjAwDnEAdV
   </data>
  </layer>
  <layer name="Murs" width="15" height="15">
@@ -23,7 +23,7 @@
    eJxjYEAFOxkZGHah4d2MDESBs1jUnSdSLzZArF5s9hILRt086mZS9BJr70OgukdIakHsxzj0AgBE4xZ9
   </data>
  </layer>
- <layer name="Objets" width="15" height="15" visible="0">
+ <layer name="Objets" width="15" height="15">
   <data encoding="base64" compression="zlib">
    eJxjYBgFo2AUDCQAAAOEAAE=
   </data>
