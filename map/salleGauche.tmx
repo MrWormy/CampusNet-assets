@@ -10,7 +10,7 @@
  </layer>
  <layer name="floor 2" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUDCQAAAOEAAE=
+   eJxjYBgFQwGUMzIwVDASFseljl7209o+dHlq24/LXFrZBwIAOWELTQ==
   </data>
  </layer>
  <layer name="map-transition" width="15" height="15">
@@ -25,7 +25,7 @@
  </layer>
  <layer name="Objets" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYKA9sGVkYLBjJE9vIFBfEB69iUC5JAJmW6DJFwH5xUBcCsRlZLqLHJAMtCuFEWE/LnEYHxmUA/kVWNyKLo5NHS5z0cXR3UWO/cT4F91eUvwLA/5AuQBG7OpwmYsujs2/MPNwhSshd5EDAHnOH5U=
+   eJxjYKA9sGVkYLBjJE9vIFBfEB69iUC5JAJmW6DJFwH5xUBcCsRlZLqLHJAMtCuFEWE/LnEYn1oAl7no4ujuohTgMhfdXmr7F5e56OLU9i+5AACDERSZ
   </data>
  </layer>
  <layer name="Objets 2" width="15" height="15">

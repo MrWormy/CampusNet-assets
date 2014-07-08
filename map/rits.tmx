@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="60" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" name="tilesheet" tilewidth="48" tileheight="48">
+  <image source="../img/tilesheet.png" width="960" height="1820"/>
+ </tileset>
+ <layer name="floor" width="40" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJACAQA8Gz/07syz58agNilFnIfyBVkiRJkn6tHx4fHx8fHx8fHx8fHx8fHx/faGuJvt2Y6kv+l4+P755P0jtNbkcvGw==
+  </data>
+ </layer>
+ <layer name="floor 2" width="40" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1SEWACAIREE8tR7faLMY1H0zhQDtB6oAAAAAMvVWNdqau93uljed9NX4ffpm05eb/Pxs+mbTN5u+APxsAntkH4w=
+  </data>
+ </layer>
+ <layer name="map-transition" width="40" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt10ENAAAIxLDDvyisEVQQklbBvksAAAB+6bouAAAAAJZHBwBIBn/1AYE=
+  </data>
+ </layer>
+ <layer name="wall" width="40" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2NENQDAYReHyxtaYATNgAnYQUxiBZxW1QK8/aeJ8yX0kx4ukdQ4AAAB/dWTO1YZr/M4svm/zz3aG6/1WsW803PRBnzX6NPRp6NPQF2f2714S/j/fXTt90ejT0KehT1OFM0iqfW04g6TaN4QzSKp9L/o09Gno09CnoU9Dn4Y+jdJX5M8dhOXK/LtvBf7uAhbIjHo=
+  </data>
+ </layer>
+ <layer name="objects" width="40" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztl00OgjAQhSknMN5G7+JKw96tt9O9svB3KXoFD+CYLigJTkI7A6O8L3kppA3zwqM/ZBkAAAAAAABgjGzd0A544C8N+PsfZvSu5q5uuT5urBZLqrNydcv1cWPHSpgZ19fW9pFxSr7IOG3+/lK+d1Klbzeal9JzpfLV8ieVr5Y/Kaz7+7BQmM+Se/5awR/3/e3p/kAqje4TFfl6kJ6Bv8J5hdeFov+u+W6c1+mLpM/e0mc66/8G0v6GOLN3ISbfad6UVSa5lybS+WL+enaRdfryd6E6V9Ktpd6RWZ/PBtcAAAAA8bwBBptPkQ==
+  </data>
+ </layer>
+ <layer name="objects 2" width="40" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt0bENwCAQBEGgAqjafbkGCiKEiND+l2aky1e6UgAAAAAAAMho1j3yeoL/9176etsb7bum063vFL3vL9H7ACCDBZ2sBnA=
+  </data>
+ </layer>
+ <layer name="objects 3" width="40" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAIA7BjAfu3NYZwtgRLAAAAAAAAAHrtfA8AgGYHtKoAEg==
+  </data>
+ </layer>
+</map>

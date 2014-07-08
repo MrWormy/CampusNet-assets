@@ -10,7 +10,7 @@
  </layer>
  <layer name="floor 2" width="40" height="40">
   <data encoding="base64" compression="zlib">
-   eJzt0zEKACEMBMD4RO8V9/9evXCthaUEZmBJu7AkAgAAoJ7eIp62X2o47TcyM7NuFSzs9QcAAL8PMpUHQg==
+   eJzt0zkKwDAMBED5hTlekf/3dqLehJRGZAYWtQuLIgAAAOo5WsTZ5ksNX/v1zMjcqwoWdvmD39hy693eAPDqAbQ3B+M=
   </data>
  </layer>
  <layer name="map-transition" width="40" height="40">
@@ -20,7 +20,7 @@
  </layer>
  <layer name="mur" width="40" height="40">
   <data encoding="base64" compression="zlib">
-   eJztlkEKgzAQRZODWTyEWw9hvUPvUG+i3XUv3bVua6FgewlnkUCINkqo4yz+gyGBGZhHApMoBQAAAAAQR62VaiLjorf3a02Ph56Gj5+7MfrFIMnvSHWlV8vtlzv794re3H6FcD8X1y+h/UFPVyl+v5Dux0E7c292tQwUH4rvTn4h0kBewvzLTD6fqZPgZyl29LsGzigEt9/SfPbfOG4/l6X5cmKcz3fzZ+pWvm9nylVMfk/q0UfGS8gMBwAA8D9G5uRRJg==
+   eJztlk0KAjEMRttj+YsX0JXbOcRcwjvoTdSd+8GdulVBUC9hFi2EztgORdMsvgehpQnkMQNpjQEAAAAAyGNrjdllxt7+369xPc62HSFh7ijol2JAdcOgVpPfnOoWhf0qtn/06C3tVyv343C/Ce2ntr1q8fuGdj8Jmo7/5lfPk+JF8S7kF2MWyWuYf0uXrzrqNPh56oJ+h8g3iiHtl5rPIzobs3NpP05qvqwE5/PJvZkuPe+3NeU2Qn5X6nHLjLuSGQ4AAOB3fABOblDj
   </data>
  </layer>
 </map>

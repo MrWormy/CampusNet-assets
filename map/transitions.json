@@ -242,9 +242,9 @@
   "couloirVertical.json", "salleGauche.json", "salleGauche.json", "salleGauche.json", "salleGauche.json", "salleDroite.json", "salleDroite.json", "salleDroite.json", "salleDroite.json",
   "foyer.json", "sousSolFoyer.json", "mediatheque.json" ],
   "mapsName": [ "forum", "exterieur", "amphi 10", "amphi 11", "cafet'",
-  "bâtiment B", "salle TP", "salle TP", "salle TP", "salle TP", "salle TP", "salle TP", "salle TP", "salle TP",
+  "bâtiment B", "salle TP B02", "salle TP B04", "salle TP B06", "salle TP B08", "salle TP B09", "salle TP B07", "salle TP B05", "salle TP B03",
   "couloir vers A et E",
-  "bâtiment A", "salle TP", "salle de cours", "salle de cours", "salle TP", "salle TP", "salle de cours", "salle TP", "salle de cours",
-  "bâtimentt E", "salle de cours", "salle de cours", "salle de cours", "salle de cours", "salle de cours", "salle de cours", "salle de cours", "salle de cours",
+  "bâtiment A", "salle TP A02", "salle de cours A03", "salle de cours A04", "salle TP A05", "salle TP A01", "salle de cours A08", "salle TP A07", "salle de cours A06",
+  "bâtimentt E", "salle de cours E01", "salle de cours E02", "salle de cours E03", "salle de cours E04", "salle de cours E05", "salle de cours E06", "salle de cours E07", "salle de cours E08",
   "foyer", "sous-sol du foyer", "médiathèque" ]
 }

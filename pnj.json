@@ -267,5 +267,17 @@
 		"pos": {"i": 9, "j": 21},
 		"map": 33,
 		"text": "Hi! Do you want to meet foreigners and eat foreign food ? Yes ? Then join us !"
+	},
+	{
+		"id": 30,
+		"object": [ 236, 0, 0, 237, 1, 0, 238, 2, 0, 256, 0, 1, 257, 1, 1, 258, 2, 1 ],
+		"objectName": "panneau",
+		"height": 2,
+		"width": 3,
+		"showName": true,
+		"pName": "Infos",
+		"pos": {"i": 9, "j": 33},
+		"map": 0,
+		"text": "Information du jour : aujourd'hui rien de spécial"
 	}
 ]
