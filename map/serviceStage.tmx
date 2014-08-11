@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="48" tileheight="48">
+<map version="1.0" orientation="orthogonal" width="16" height="18" tilewidth="48" tileheight="48">
  <tileset firstgid="1" name="tilesheet" tilewidth="48" tileheight="48">
   <image source="../img/tilesheet.png" width="960" height="1820"/>
  </tileset>
- <layer name="floor" width="40" height="40">
+ <layer name="floor" width="16" height="18">
   <data encoding="base64" compression="zlib">
-   eJztzrEJAEAIwED3H8UprX4BQeHlDtInAgDgrmzmz58/f1N/W49X/7b48+fv3z8AeAqSMpYV
+   eJxjYKAcrCITj+of2vpXDbD+gfb/qH7KAQDJnpYV
   </data>
  </layer>
- <layer name="floor 2" width="40" height="40">
+ <layer name="floor 2" width="16" height="18">
   <data encoding="base64" compression="zlib">
-   eJzt0zkKwDAMBED5hTlekf/3dqLehJRGZAYWtQuLIgAAAOo5WsTZ5ksNX/v1zMjcqwoWdvmD39hy693eAPDqAbQ3B+M=
+   eJxjYBgFwx0EMjIwBDFi0oMFEHLfXyD+B8T/B8BtGYMonCgF/kC/BAwy/wAAKZoH4w==
   </data>
  </layer>
- <layer name="map-transition" width="40" height="40">
+ <layer name="map-transition" width="16" height="18">
   <data encoding="base64" compression="zlib">
-   eJztzjEBAAAEADDl9RaBC8eWYBEAAABsyetA4/sPAACmCrVdAQs=
+   eJxjYBgFo4A80DrA+kfB0AcAPgYBCw==
   </data>
  </layer>
- <layer name="mur" width="40" height="40">
+ <layer name="mur" width="16" height="18">
   <data encoding="base64" compression="zlib">
-   eJztlk0KAjEMRttj+YsX0JXbOcRcwjvoTdSd+8GdulVBUC9hFi2EztgORdMsvgehpQnkMQNpjQEAAAAAyGNrjdllxt7+369xPc62HSFh7ijol2JAdcOgVpPfnOoWhf0qtn/06C3tVyv343C/Ce2ntr1q8fuGdj8Jmo7/5lfPk+JF8S7kF2MWyWuYf0uXrzrqNPh56oJ+h8g3iiHtl5rPIzobs3NpP05qvqwE5/PJvZkuPe+3NeU2Qn5X6nHLjLuSGQ4AAOB3fABOblDj
+   eJzbycjAsItMvBuIzwIxCFxnxMToAF3uPJJ+QsASqM4KTS0p+n2B6vwI6I9FYj8jwlx0/YUU6kcGyPptgWw7RkyaWP2U2o8PnMXiLhgNAy+B+BUQv8ahHx9wwCNPTPyHQOVjsagjJf0U4tF/CI8d+AC6fkLpxxooZoMkjq4fGRCKvzak9HMNmidvEJl+ZwLlZkH1PwTiR2Tix0AMAC6BUOM=
   </data>
  </layer>
 </map>

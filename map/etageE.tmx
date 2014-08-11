@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="24" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" name="tilesheet" tilewidth="48" tileheight="48">
+  <image source="../img/tilesheet.png" width="960" height="1820"/>
+ </tileset>
+ <layer name="floor 1" width="10" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAdrELD+OQoVUesvaSqo8ReYs0ctXfg7KVEHS715Kqj1H34AABeeUZl
+  </data>
+ </layer>
+ <layer name="floor 2" width="10" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDFUAAAPAAAE=
+  </data>
+ </layer>
+ <layer name="map-transition" width="10" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAE34H4MRZxYsBBKqujFaDE/tZRewe9vYMJgPLSHxqZDQCgEgpU
+  </data>
+ </layer>
+ <layer name="Murs" width="10" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYICAnYwMDLugGAZ2I7Fh4CwWMU4miD5s6pHBU0YIPk+GOmz2fgWKPQLixwTUEbIPnzps5mEDo/YODnth6ZgLmCYFmBDiIDZyOj3LiEhn+NxJT3XI6f4hNG3jw6B0DwC1rjgH
+  </data>
+ </layer>
+ <layer name="Objets" width="10" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAO7GKEYC4mIjVgAUJMEEwICDBBMAg8YoTgb4zE2yPAhJ09CkYBMsCVHvnJTDPEmoecvikFAJreBUY=
+  </data>
+ </layer>
+ <layer name="Objets 2" width="10" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAvEGSirrpRMArIBfxEpjFK1QkwQTCp5hEDAK9gAI8=
+  </data>
+ </layer>
+</map>

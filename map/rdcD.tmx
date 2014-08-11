@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="8" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" name="tilesheet" tilewidth="48" tileheight="48">
+  <image source="../img/tilesheet.png" width="960" height="1820"/>
+ </tileset>
+ <layer name="floor" width="26" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAPWEUmHm72DFZML78PRnsoAQBDekkN
+  </data>
+ </layer>
+ <layer name="map-transition" width="26" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYECAtQyYAF0Mm5rBBA5SwQxcfkQWp4Y9gwW0IrFnYpHHJkapPYMVEON/ZD4AQMEI6w==
+  </data>
+ </layer>
+ <layer name="wall" width="26" height="8">
+  <data encoding="base64" compression="zlib">
+   eJzbxcjAsAuKQWAXIypGF4Pxd0PZxAJ+JtLUw8B5Eu0hF3Ay4Q8HdHF6AEEm8sONVPCIEYKR2djEvtHJ72cpsEeQhDB7iMevuMSQ+QCD6iTf
+  </data>
+ </layer>
+</map>
